@@ -1,0 +1,21 @@
+{
+  "main.css": "/frontend/static/css/main.f3825aac.chunk.css",
+  "main.js": "/frontend/static/js/main.7150facc.chunk.js",
+  "main.js.map": "/frontend/static/js/main.7150facc.chunk.js.map",
+  "runtime~main.js": "/frontend/static/js/runtime~main.d60cc9b3.js",
+  "runtime~main.js.map": "/frontend/static/js/runtime~main.d60cc9b3.js.map",
+  "static/css/2.18308bf9.chunk.css": "/frontend/static/css/2.18308bf9.chunk.css",
+  "static/js/2.b721ad5a.chunk.js": "/frontend/static/js/2.b721ad5a.chunk.js",
+  "static/js/2.b721ad5a.chunk.js.map": "/frontend/static/js/2.b721ad5a.chunk.js.map",
+  "static/js/3.c65bf43b.chunk.js": "/frontend/static/js/3.c65bf43b.chunk.js",
+  "static/js/3.c65bf43b.chunk.js.map": "/frontend/static/js/3.c65bf43b.chunk.js.map",
+  "index.html": "/frontend/index.html",
+  "precache-manifest.b0c5a4b2dee10d99c703bf89c759803a.js": "/frontend/precache-manifest.b0c5a4b2dee10d99c703bf89c759803a.js",
+  "service-worker.js": "/frontend/service-worker.js",
+  "static/css/2.18308bf9.chunk.css.map": "/frontend/static/css/2.18308bf9.chunk.css.map",
+  "static/css/main.f3825aac.chunk.css.map": "/frontend/static/css/main.f3825aac.chunk.css.map",
+  "static/media/styles.css": "/frontend/static/media/gaxon.b1a63de8.svg",
+  "static/media/loader.svg": "/frontend/static/media/loader.74caa41d.svg",
+  "static/media/notifications.css": "/frontend/static/media/notification.c0d3c94c.eot",
+  "static/media/sprite-flags-24x24.css": "/frontend/static/media/sprite-flags-24x24.7ed12ca4.png"
+}
